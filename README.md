@@ -1,4 +1,4 @@
-
+You can find the diagram in indir.png
 
 Hayvanat Bahçesi Yönetimi
 
